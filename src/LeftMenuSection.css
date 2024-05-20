@@ -1,0 +1,22 @@
+.leftMenuSectionContainer {
+  position: fixed;
+  left: 0px;
+  top: 2px;
+  width: 300px;
+  height: 100vh;
+  background-color: rgb(52, 52, 131);
+}
+
+.leftMenuSection_listItem_1 {
+  padding: 10px;
+  background: white;
+  margin-top: 15px;
+  color: rgb(52, 52, 131);
+  cursor: pointer;
+}
+
+.leftMenuSection_listItem_2 {
+  padding: 10px;
+  background: white;
+  cursor: pointer;
+}
