@@ -1,0 +1,28 @@
+.form-container {
+  width: 55%;
+  background-color: #e8e5e5;
+  box-shadow: 0px 0px 5px 2px grey;
+  margin: 5px;
+}
+
+label {
+  display: block;
+}
+
+.error {
+  min-height: 20px;
+}
+
+.form-group_1,
+.form-group_2,
+.form-group_3,
+.form-group_4 {
+  display: flex;
+  justify-content: center;
+}
+
+.form-group {
+  margin: 10px;
+  min-width: 200px;
+  text-align: center;
+}
