@@ -24,7 +24,7 @@ const FormComponent = ({ formData, handleChange, errors }) => {
             name='projectName'
             value={formData.projectName}
             onChange={handleChange}
-            placeHolder='Project Name'
+            placeholder='Project Name'
           />
           <div className='error'>{errors.projectName}</div>
         </div>
@@ -151,7 +151,7 @@ const FormComponent = ({ formData, handleChange, errors }) => {
             name='projectDescription'
             value={formData.projectDescription}
             onChange={handleChange}
-            placeHolder='Project Description'
+            placeholder='Project Description'
           />
         </div>
       </div>

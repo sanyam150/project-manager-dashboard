@@ -1,0 +1,9 @@
+.Devices-container {
+  background-color: #e8e5e5;
+  box-shadow: 0px 0px 5px 2px grey;
+  margin: 5px;
+}
+
+.device-group {
+  padding: 10px;
+}
